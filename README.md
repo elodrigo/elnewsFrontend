@@ -27,7 +27,7 @@ You can also use `npm install` or `npx install` in this project. I tested it, an
 
 ## Structure
 
-Structure of directory is really depends on what you prefer and type of project you build.
+It is basically built in Redux-Thunk pattern. Structure of directory is really depends on what you prefer and type of project you build.
  I found organizing directories in `components`, `containers`, and `utils` is kinda readable to me, and makes me easier to locate javascript logic and to add css style.
 
 
