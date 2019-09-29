@@ -1,5 +1,5 @@
 I started this news website project with basic [Create React App](https://github.com/facebook/create-react-app).
-Starting a reactjs project with create react app, and building a new project from scratch really helped me to study and understand reactjs.
+Starting a reactjs project with create react app, and building a new project from scratch really helped me to study and understand reactjs.<br>
 Website url: https://elnewspaper.com
 
 
