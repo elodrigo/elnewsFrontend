@@ -32,5 +32,5 @@ Structure of directory is really depends on what you prefer and type of project 
 
 ## Webpack
 
-I used webpack for dev-server. In `webpack.config.js` file, `mode` should be set `production` even if you want to run development mode.
+I used webpack for dev-server. In `webpack.config.js` file, `mode` should be set `production` even if you want to run in development mode.
 Instead, you can change `devtool:` options to source-map or etc.
