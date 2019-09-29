@@ -33,5 +33,5 @@ It is basically built in Redux-Thunk pattern. Structure of directory is really d
 
 ## Webpack
 
-I used webpack for dev-server. In `webpack.config.js` file, `mode` should be set `production` even if you want to run in development mode.
+In `webpack.config.js` file, `mode` should be set `production` even if you want to run in development mode.
 Instead, you can change `devtool:` options to source-map or etc.
