@@ -1,5 +1,5 @@
 I started this project with basic [Create React App](https://github.com/facebook/create-react-app).
-Starting a reactjs project with create react app, and build your project structure from scratch really helps you to study and understand of reactjs.
+Starting a reactjs project with create react app, and building a new project from scratch really helped me to study and understand reactjs.
 
 
 ## Available Scripts
